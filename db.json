@@ -1,29 +1,6 @@
 {
   "notes": [
     {
-      "titleNote": "Pesta fadly",
-      "tasks": [
-        {
-          "id": "Task 1",
-          "strTask": "Baju batik",
-          "strDescription": "Ambil kerumah abang dulu",
-          "isDone": true
-        },
-        {
-          "id": "Task 2",
-          "strTask": "Celana keper",
-          "strDescription": "Ambil di laundry dulu",
-          "isDone": true
-        },
-        {
-          "id": "Task 3",
-          "strTask": "Jemput partner",
-          "strDescription": "Jangan lupa bilang pakai warna baju sama, biar coupleee!!!!"
-        }
-      ],
-      "id": 2
-    },
-    {
       "titleNote": "Menu makanan untuk arisan",
       "tasks": [
         {
