@@ -18,17 +18,20 @@
         {
           "id": "Task 3",
           "strTask": "Play football manager",
-          "strDescription": ""
+          "strDescription": "",
+					"isDone": false
         },
         {
           "id": "Task 4",
           "strTask": "Go to petshop",
-          "strDescription": "Buy whiskas"
+          "strDescription": "Buy whiskas",
+					"isDone": false
         },
         {
           "id": "Task 5",
           "strTask": "Pray",
-          "strDescription": ""
+          "strDescription": "",
+					"isDone": false
         }
       ],
       "id": 3
@@ -39,32 +42,38 @@
         {
           "id": "Task 1",
           "strTask": "5 Tahu",
-          "strDescription": ""
+          "strDescription": "",
+					"isDone": false
         },
         {
           "id": "Task 2",
           "strTask": "Daging ayam",
-          "strDescription": ""
+          "strDescription": "",
+					"isDone": false
         },
         {
           "id": "Task 3",
           "strTask": "Tomat",
-          "strDescription": ""
+          "strDescription": "",
+					"isDone": false
         },
         {
           "id": "Task 4",
           "strTask": "Cabe merah",
-          "strDescription": ""
+          "strDescription": "",
+					"isDone": false
         },
         {
           "id": "Task 5",
           "strTask": "Bumbu rendang",
-          "strDescription": "Belinya tempat mang ojon"
+          "strDescription": "Belinya tempat mang ojon",
+					"isDone": false
         },
         {
           "id": "Task 6",
           "strTask": "Ketupat",
-          "strDescription": ""
+          "strDescription": "",
+					"isDone": false
         }
       ],
       "id": 4
