@@ -1,34 +1,34 @@
 {
   "notes": [
     {
-      "titleNote": "Menu makanan untuk arisan",
+      "titleNote": "Tomorrow Activity",
       "tasks": [
         {
           "id": "Task 1",
-          "strTask": "Rendang",
-          "strDescription": "Yang kayak di pesta2",
+          "strTask": "Run",
+          "strDescription": "Use red running shoes",
           "isDone": true
         },
         {
           "id": "Task 2",
-          "strTask": "Sop",
-          "strDescription": "Ambil di laundry dulu",
+          "strTask": "Go to market",
+          "strDescription": "Don't forget to buy salt",
           "isDone": false
         },
         {
           "id": "Task 3",
-          "strTask": "Ayam goreeennggg",
-          "strDescription": "Yang banyak ya"
+          "strTask": "Play football manager",
+          "strDescription": ""
         },
         {
           "id": "Task 4",
-          "strTask": "Rendang goreng",
-          "strDescription": "jangan lupaa"
+          "strTask": "Go to petshop",
+          "strDescription": "Buy whiskas"
         },
         {
           "id": "Task 5",
-          "strTask": "Beli tahu",
-          "strDescription": "5 bungkus"
+          "strTask": "Pray",
+          "strDescription": ""
         }
       ],
       "id": 3
@@ -38,33 +38,33 @@
       "tasks": [
         {
           "id": "Task 1",
-          "strTask": "Tahu",
-          "strDescription": "bulat"
+          "strTask": "5 Tahu",
+          "strDescription": ""
         },
         {
           "id": "Task 2",
-          "strTask": "Enak loo",
-          "strDescription": "masa sih"
+          "strTask": "Daging ayam",
+          "strDescription": ""
         },
         {
           "id": "Task 3",
-          "strTask": "jual",
-          "strDescription": "kkkaka"
+          "strTask": "Tomat",
+          "strDescription": ""
         },
         {
           "id": "Task 4",
-          "strTask": "kklaia",
-          "strDescription": "iiiwp"
+          "strTask": "Cabe merah",
+          "strDescription": ""
         },
         {
           "id": "Task 5",
-          "strTask": "ooww",
-          "strDescription": "iowjwo"
+          "strTask": "Bumbu rendang",
+          "strDescription": "Belinya tempat mang ojon"
         },
         {
           "id": "Task 6",
-          "strTask": "uwowopw",
-          "strDescription": "piur"
+          "strTask": "Ketupat",
+          "strDescription": ""
         }
       ],
       "id": 4
